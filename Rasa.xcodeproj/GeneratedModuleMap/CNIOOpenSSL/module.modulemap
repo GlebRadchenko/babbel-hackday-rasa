@@ -1,4 +1,4 @@
 module CNIOOpenSSL {
-    umbrella "/Users/gradchenko/Developer/Hackday/babbel-hackday-rasa/Rasa/.build/checkouts/swift-nio-ssl/Sources/CNIOOpenSSL/include"
+    umbrella "/Users/gradchenko/Developer/Hackday/babbel-hackday-rasa/.build/checkouts/swift-nio-ssl/Sources/CNIOOpenSSL/include"
     export *
 }
