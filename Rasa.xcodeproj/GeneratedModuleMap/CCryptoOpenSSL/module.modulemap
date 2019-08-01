@@ -1,0 +1,4 @@
+module CCryptoOpenSSL {
+    umbrella "/Users/gradchenko/Developer/Hackday/babbel-hackday-rasa/Rasa/.build/checkouts/crypto/Sources/CCryptoOpenSSL/include"
+    export *
+}
